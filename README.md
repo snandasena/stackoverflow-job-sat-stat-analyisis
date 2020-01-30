@@ -30,4 +30,4 @@ python -m pip install -r requirements.txt
 ```
 ##### Step 04: Running Jupyter notebook with Python virtual environments
 ```
-jupyter notebook
+jupyter notebook Stackoverflow-Job-Sat-Statistical-Analysis.ipynb
