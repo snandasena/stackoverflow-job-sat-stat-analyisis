@@ -32,3 +32,4 @@ python -m pip install -r requirements.txt
 ```
 jupyter notebook Stackoverflow_Job_Satisfaction_Statistical_Analysis.ipynb
 
+#### [Link to Medium Blog](https://medium.com/@sajithnandasena/how-to-keep-employees-happy-in-the-it-industry-dda54249dbcc)
